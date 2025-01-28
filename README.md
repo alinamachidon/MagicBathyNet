@@ -86,8 +86,6 @@ The code and model weights for the following deep learning models that have been
 
 To achieve the results presented in the paper, use the parameters and the specific train-evaluation splits provided in the dataset. Parameters can be found [here](https://drive.google.com/file/d/1gkIG99WFI6LNP7gsRvae9FZWU3blDPgv/view?usp=sharing) while train-evaluation splits are included in the dataset.
 
-## Example testing results
-Example patch of the Agia Napa area (left) predicted bathymetry obtained by MagicBathy-U-Net. 
-![depth_410_aerial](https://github.com/pagraf/MagicBathyNet/assets/35768562/7995efd7-f85e-4411-8037-4a68c9780bfb)
+
 
 
