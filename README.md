@@ -69,7 +69,9 @@ After the installation is completed, activate the environment:
 `conda activate magicbathynet`
 
 ## Train and Test the bathymetry models
-To train and test the **bathymetry** models use **run_bathymetry.ipynb**.
+To train and test the **bathymetry** models use **run_bathymetry.py**.
+
+## A sample inferred image is included in **test_image_result_387.png**.
 
 ## Pre-trained Deep Learning Models
 The code and model weights for the following deep learning models that have been pre-trained on MagicBathyNet for bathymetry tasks:
@@ -84,7 +86,6 @@ The code and model weights for the following deep learning models that have been
 | Modified U-Net for bathymetry | Sentinel-2 | Agia Napa    | [bathymetry_s2_an.zip](https://drive.google.com/file/d/15esoghCHHHilQJxTBBjmHpAAde-AHdtE/view?usp=sharing)   | 
 | Modified U-Net for bathymetry | Sentinel-2 | Puck Lagoon    | [bathymetry_s2_pl.zip](https://drive.google.com/file/d/1oCnD5ePwVW3ORix4GWRcMUp_kSL5p9Se/view?usp=sharing)   |
 
-To achieve the results presented in the paper, use the parameters and the specific train-evaluation splits provided in the dataset. Parameters can be found [here](https://drive.google.com/file/d/1gkIG99WFI6LNP7gsRvae9FZWU3blDPgv/view?usp=sharing) while train-evaluation splits are included in the dataset.
 
 
 
